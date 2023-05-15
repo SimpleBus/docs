@@ -8,7 +8,7 @@ Get started by reading more about these concepts LINK or by digging in to common
 Features and limitations
 ========================
 
-Why we do not have queries. Why we chose not to return thins from command handlers.
+Why we do not have queries. Why we chose not to return things from command handlers.
 
 Package design
 ==============
